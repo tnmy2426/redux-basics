@@ -1,4 +1,4 @@
-import {increament_value, decreament_value} from '../types' 
+import {increament_value, decreament_value} from '../types'
 
 const initialState = {
     count:0
